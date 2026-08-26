@@ -3,7 +3,7 @@ title: "Whisperの精度改善、5施策を実測したら3つ棄却になった
 emoji: "🎤"
 type: "tech"
 topics: ["whisper", "python", "音声認識", "個人開発", "機械学習"]
-published: false
+published: true
 ---
 
 Windows常駐の音声入力アプリ（[MO Voice](https://github.com/masa0980-sudo/mo-voice)）を個人開発しています。faster-whisper を使ったローカル完結型で、ホットキーを押して話すとカーソル位置にテキストが入るという、それだけのツールです。
