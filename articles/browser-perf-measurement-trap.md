@@ -1,9 +1,9 @@
 ---
-title: "AI開発環境で性能を測ったら「異常なし」しか出ず、4回誤診した話"
+title: "AIに測らせたら「異常なし」しか出ず、4回誤診した話"
 emoji: "🎮"
 type: "tech"
 topics: ["webaudio", "canvas", "個人開発", "パフォーマンス", "claudecode"]
-published: false
+published: true
 ---
 
 ブラウザで動く自作のシューティングゲーム [NEON VOID](https://masa0980-sudo.github.io/neon-void/)（敵の弾を避けながら進むゲーム）を個人開発しています。全5面あり、面ごとに違うBGM（背景で流れる音楽）が流れます。音源ファイルは使わず、すべてブラウザ上で合成しています。
